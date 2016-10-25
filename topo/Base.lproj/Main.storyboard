@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="11201" systemVersion="15G1004" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES" initialViewController="6ZV-pe-N1a">
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="11201" systemVersion="16A323" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES" initialViewController="6ZV-pe-N1a">
     <dependencies>
         <deployment identifier="iOS"/>
         <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="11161"/>
@@ -24,7 +24,7 @@
                                 <subviews>
                                     <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="0V5-r3-Bbs">
                                         <subviews>
-                                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="盘11.png" translatesAutoresizingMaskIntoConstraints="NO" id="MGg-3u-u5f"/>
+                                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="11.png" translatesAutoresizingMaskIntoConstraints="NO" id="MGg-3u-u5f"/>
                                         </subviews>
                                         <color key="backgroundColor" red="0.37384241819381714" green="1" blue="0.034897729754447937" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                         <constraints>
@@ -48,7 +48,7 @@
                                     </view>
                                     <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="lfq-V9-r5B">
                                         <subviews>
-                                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="盘11.png" translatesAutoresizingMaskIntoConstraints="NO" id="Y90-UH-Vc7">
+                                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="11.png" translatesAutoresizingMaskIntoConstraints="NO" id="Y90-UH-Vc7">
                                                 <constraints>
                                                     <constraint firstAttribute="width" secondItem="Y90-UH-Vc7" secondAttribute="height" multiplier="1:1" id="kPW-TK-zQu"/>
                                                 </constraints>
@@ -126,6 +126,6 @@
         </scene>
     </scenes>
     <resources>
-        <image name="盘11.png" width="150" height="150"/>
+        <image name="11.png" width="150" height="150"/>
     </resources>
 </document>

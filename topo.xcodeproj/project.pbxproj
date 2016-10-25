@@ -13,7 +13,7 @@
 		18EC868D1A6366410090DF8E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 18EC868B1A6366410090DF8E /* Main.storyboard */; };
 		18EC868F1A6366410090DF8E /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 18EC868E1A6366410090DF8E /* Images.xcassets */; };
 		18EC86921A6366410090DF8E /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 18EC86901A6366410090DF8E /* LaunchScreen.xib */; };
-		18EC86C91A63B8390090DF8E /* 盘11@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 18EC86C81A63B8390090DF8E /* 盘11@2x.png */; };
+		18EC86C91A63B8390090DF8E /* 11@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 18EC86C81A63B8390090DF8E /* 11@2x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,7 +27,7 @@
 		18EC868C1A6366410090DF8E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		18EC868E1A6366410090DF8E /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		18EC86911A6366410090DF8E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
-		18EC86C81A63B8390090DF8E /* 盘11@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "盘11@2x.png"; sourceTree = "<group>"; };
+		18EC86C81A63B8390090DF8E /* 11@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "11@2x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,7 +65,7 @@
 				18EC86881A6366410090DF8E /* ViewController.h */,
 				18EC86891A6366410090DF8E /* ViewController.m */,
 				18EC868B1A6366410090DF8E /* Main.storyboard */,
-				18EC86C81A63B8390090DF8E /* 盘11@2x.png */,
+				18EC86C81A63B8390090DF8E /* 11@2x.png */,
 				18EC868E1A6366410090DF8E /* Images.xcassets */,
 				18EC86901A6366410090DF8E /* LaunchScreen.xib */,
 				18EC86811A6366410090DF8E /* Supporting Files */,
@@ -142,7 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				18EC868D1A6366410090DF8E /* Main.storyboard in Resources */,
-				18EC86C91A63B8390090DF8E /* 盘11@2x.png in Resources */,
+				18EC86C91A63B8390090DF8E /* 11@2x.png in Resources */,
 				18EC86921A6366410090DF8E /* LaunchScreen.xib in Resources */,
 				18EC868F1A6366410090DF8E /* Images.xcassets in Resources */,
 			);
